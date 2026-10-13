@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.db
+*.db-shm
+*.db-wal
+qr_codes/
+.pytest_cache/
+.coverage
